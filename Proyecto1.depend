@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1599450192 source:c:\users\tiifa\onedrive\escritorio\universidad\cuatrimestre i\laboratorio i\trabajos practicos\proyecto 1\proyecto1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"utn.h"
+
+1599448373 c:\users\tiifa\onedrive\escritorio\universidad\cuatrimestre i\laboratorio i\trabajos practicos\proyecto 1\proyecto1\utn.h
+
+1599448373 source:c:\users\tiifa\onedrive\escritorio\universidad\cuatrimestre i\laboratorio i\trabajos practicos\proyecto 1\proyecto1\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
